@@ -12,7 +12,8 @@ https://i.imgur.com/G4Gduax.png
 
 13 nodes.
 16 edges.
-E-N+2 = 5
+E-N+2 = 
+
 Тест случаи според Every Statement критериумот:
 1. null || ( било што што нема "." || "@" ) 
 2. damjan.ilic999@gmail.com
