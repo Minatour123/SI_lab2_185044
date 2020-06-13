@@ -17,6 +17,9 @@ Control Flow Graph:
 
 
 Тест случаи според Every statement критериумот: 
+
+![Every Statement Test Cases](https://github.com/Minatour123/SI_lab2_185044/raw/master/everyteststatement.JPG)
+
 1. allUsers //empty
 user 1      null
 
