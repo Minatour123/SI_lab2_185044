@@ -1,12 +1,15 @@
 # SI_lab2_185044
 Дамјан Илиќ, бр. на индекс: 185044
+
 Група на код:
 Ја добив група 1.
 
 Control Flow Graph:
+
 https://i.imgur.com/G4Gduax.png
 
 Цикломатска комплексност:
+
 13 nodes.
 16 edges.
 E-N+2 = 5
