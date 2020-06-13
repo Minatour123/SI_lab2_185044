@@ -8,7 +8,7 @@
 
 Control Flow Graph:
 
-![Test Image 1]("SIlab2_185044.jpeg")
+![Control Flow Graph](https://github.com/Minatour123/SI_lab2_185044/raw/master/SIlab2_185044.jpg)
 
 
 Цикломатска комплексност:
