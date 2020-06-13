@@ -32,7 +32,7 @@ email: damjan@gmail.com
 3. allUsers //empty
 user3
 username: Damjan3
-passwrod: grrwutenD
+password: grrwutenD
 email: damjanilicgmail.com
 
 4. allUsers //empty
